@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirOvi1
-- 👀 I’m interested in Web Design, Wordpress & Front-End Developing.
+- 👀 I’m interested in Web Design, Wordpress & Front-End Web Developing.
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me? My E-mail - abirdutta1@gmail.com
