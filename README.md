@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbirOvi1
 - 👀 I’m interested in Graphic Design, UI/UX Design & Web Design.
-- 💞️ I’m looking to collaborate.
+- 💞️ I know coding and I’m looking to collaborate.
 - 📫 How to reach me? My E-mail - abirdutta1@gmail.com
 
 <!---
