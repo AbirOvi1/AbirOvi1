@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirOvi1
-- 👀 I’m interested in UI/UX Design, Web Design, Frontend Web Development, Graphic Design.
+- 👀 I’m interested in UI/UX Design, Web Design, WordPress Development, and Graphic Design.
 - 💞️ I know design and coding. I’m looking to collaborate.
 - 📫 How to reach me? My E-mail - abirovi71@gmail.com
 
