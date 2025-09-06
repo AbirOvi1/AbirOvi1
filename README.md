@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirOvi1
-- 👀 I’m interested in UI/UX Design, Web Design, WordPress Development, and Graphic Design.
+- 👀 I’m interested in WordPress Development.
 - 💞️ I know design and coding. I’m looking to collaborate.
 
 <!---
